@@ -3,7 +3,7 @@
 As tabelas são listas de dados em duas dimensões e são compostas por linhas e colunas. Portanto, são muito utilizadas para apresentar dados de uma forma organizada.
 
 ## Estrutura básica de uma tabela
-``` html
+```html
 <table border='1'>
     <thead>
         <tr>

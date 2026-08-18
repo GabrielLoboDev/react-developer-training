@@ -2,12 +2,12 @@
 
 Tags usadas para definir um título e subtítulos, variando de 1 a 6, sendo h1 o título mais importante e h6 o de menor importância.
 
-``` html
+```html
 <h1>, <h2>, <h3>, <h4>, <h5> e <h6>
 ```
 
 ## Outras tags básicas
-``` html
+```html
 <p> Tag para definir um parágrafo;
     <a href=''> Tag de link, junto ao atributo href;
         <header> define um cabeçalho;
@@ -16,7 +16,7 @@ Tags usadas para definir um título e subtítulos, variando de 1 a 6, sendo h1 o
 ```
 
 ## Mais algumas tags básicas
-``` html
+```html
 <div> define uma divisão;
     <footer> define um rodapé;
         <nav> define uma área de navegação (como menus);
@@ -24,7 +24,7 @@ Tags usadas para definir um título e subtítulos, variando de 1 a 6, sendo h1 o
 ```
 
 ## E mais outras tags básicas
-``` html
+```html
 <ol> define uma lista ordenada;
     <ul> define uma lista não ordenada;
         <li> define uma lista não ordenada;
@@ -33,7 +33,7 @@ Tags usadas para definir um título e subtítulos, variando de 1 a 6, sendo h1 o
                     <textarea> define uma área para o usuário digitar um texto;
 ```
 ## Ultimas tags básicas
-``` html
+```html
 <img> permite inserir uma imagem no documento;
     <button> define um botão;
 ```

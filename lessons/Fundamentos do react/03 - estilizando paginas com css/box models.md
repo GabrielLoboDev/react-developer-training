@@ -4,6 +4,6 @@ Em uma página WEB, cada elemento é representado como um box retangular. Determ
 
 No CSS, cada um desses boxes retangulares é descrita usando o box model padrão. Este modelo descreve o conteúdo do espaço ocupado por um elemento. Cada box possui 4 edges. `margin edge, border edge, padding edge e content edge`.
 
-``` txt
+```txt
     Margin -> Border -> Padding -> Content
 ```

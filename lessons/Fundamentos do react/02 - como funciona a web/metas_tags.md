@@ -5,23 +5,23 @@ Meta tags são linhas de código HTML ou 'etiquetas' que, entre outras coisas, d
 ## Meta Tags básicas
 
 ### keywords
-``` html
+```html
 <meta name='keywords' content='sites, web, desenvolvimento, html, design'>
 ```
 Utilizado para dizer as ferramentas de buscador quais são as palavras-chaves referente a página.
 
 ### description
-``` html
+```html
 <meta name='description' content='Meta Tags-  O que são e como utilizá-las'>
 ```
 Utilizado para dizer as ferramentas de buscador uma descrição sobre a página.
 
 ### http-equiv
-``` html
+```html
 <meta http-equiv='content-language' content='pt-br'>
 ```
 
-``` html
+```html
 <meta http-equiv='refresh' content='5; URL?'>
 ```
 A meta tag http-equiv (abreviação de http-equivalent) serve para simular um cabeçalho de resposta HTTP diretamente no código HTML. Ela dá ordens ao navegador sobre como agir ao carregar a página, como definir regras de cache, atualizar o site sozinho ou ajustar a compatibilidade.

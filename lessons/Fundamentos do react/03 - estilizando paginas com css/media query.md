@@ -8,7 +8,7 @@ Os media types definem para que tipo de media um certo código CSS é direcionad
 
 ## Utilizado Media Queries
 
-``` html
+```html
 <style>
     @media (max-width: 600px)
     {

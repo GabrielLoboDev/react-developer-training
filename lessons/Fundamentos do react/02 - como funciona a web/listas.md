@@ -9,7 +9,7 @@ As listas são muito importantes quando queremos listar alguns itens no site e t
 - Listas por definição
 
 ### Lista ordenada
-``` html
+```html
 <ol start='' type=''>
     <li></li>
     <li></li>
@@ -20,7 +20,7 @@ As listas são muito importantes quando queremos listar alguns itens no site e t
 - `type`: define o tipo da lista, ex.: Letras, númerica ou algarismos Romanos.
 
 ### Lista não ordenada
-``` html
+```html
 <ul>
     <li></li>
     <li></li>
@@ -29,7 +29,7 @@ As listas são muito importantes quando queremos listar alguns itens no site e t
 ```
 
 ### Lista por definição
-``` html
+```html
 <dl>
     <dt>Carro</dt>
         <dd>Veículo de 4 rodas</dd>

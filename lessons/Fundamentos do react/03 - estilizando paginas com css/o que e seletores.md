@@ -4,7 +4,7 @@ Os seletores são usados para direcionar os elementos HTML em nossas páginas da
 
 ## Exemplo de seletores
 
-``` css
+```css
 h1
 {
     color: blue;
@@ -18,22 +18,22 @@ p
 ```
 
 ### Tipo
-``` css
+```css
 h1 {}
 ```
 
 ### Classe
-``` css
+```css
 .box {}
 ```
 
 ### Id
-``` css
+```css
 #unique {}
 ```
 
 ### Seletores de atributos
-``` css
+```css
 a[title] {}
 
 a[href="https://example.com"] {}
